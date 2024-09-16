@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GabrielCastilho0
+- 👀 I’m interested in web development, JavaScript, and creating innovative solutions to real-world problems.
+- 🌱 I’m currently learning advanced JavaScript, Node.js, and exploring the world of front-end frameworks like React.
+- 💞️ I’m looking to collaborate on open-source projects that involve web development or any project that can make a positive impact.
+- 📫 How to reach me: gabriel.ocs17@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love experimenting with new programming challenges and gaming in my free time!
