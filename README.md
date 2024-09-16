@@ -5,3 +5,11 @@
 - 📫 How to reach me: gabriel.ocs17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new programming challenges and gaming in my free time!
+
+- 👋 Olá, eu sou o @GabrielCastilho0
+- 👀 Estou interessado em desenvolvimento web, JavaScript e em criar soluções inovadoras para problemas do mundo real.
+- 🌱 Atualmente, estou aprendendo JavaScript avançado, Node.js e explorando o mundo dos frameworks de front-end como React.
+- 💞️ Estou buscando colaborar em projetos de código aberto que envolvam desenvolvimento web ou qualquer projeto que possa ter um impacto positivo.
+- 📫 Como me encontrar: gabriel.ocs17@gmail.com
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Adoro experimentar novos desafios de programação e jogar videogames no meu tempo livre!
